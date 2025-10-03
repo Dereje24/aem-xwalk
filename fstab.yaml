@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p87458-e742029.adobeaemcloud.com/bin/franklin.delivery/dereje24/aem-xwalk-rde/main"
+    url: "https://author-p87458-e742029.adobeaemcloud.com/bin/franklin.delivery/dereje24/aem-xwalk/main"
     type: "markup"
     suffix: ".html"
